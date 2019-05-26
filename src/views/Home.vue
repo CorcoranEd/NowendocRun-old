@@ -1,12 +1,12 @@
 <template>
   <div class="home">
     <div>
-      <img class="logo" src="../assets/nr-logo.svg"/>
+      <img class="logo" src="../assets/nr-logo.svg" />
       <div class="info">
-        <p>6138 Brackendale Road
-        Nowendoc, NSW ‎2354
-        Australia</p>
-        <a href="mailto:contact@nowendoc.run?subject=Website Enquiry">contact@nowendoc.run</a>
+        <p>6138 Brackendale Road Nowendoc, NSW ‎2354 Australia</p>
+        <a href="mailto:contact@nowendoc.run?subject=Website Enquiry"
+          >contact@nowendoc.run</a
+        >
       </div>
     </div>
   </div>
