@@ -22,6 +22,12 @@
           <a href="mailto:contact@nowendoc.run?subject=Website Enquiry"
             >contact@nowendoc.run</a
           >
+          <a href="tel:‭0447 335 364‬"
+            >Ross Henderson, Farm Manager ‭0447 335 364‬</a
+          >
+          <a href="tel:‭0400 815 800‬‬"
+            >Linda Wild, Farm Administrator ‭0400 815 800‬</a
+          >
         </div>
         <div class="column half logo-column">
           <img class="logo" src="../assets/logo-outline.svg" />
