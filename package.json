@@ -1,7 +1,7 @@
 {
-  "name": "NowendocRun",
+  "name": "test",
   "version": "1.0.0",
-  "description": "Nowendoc Run website",
+  "description": "My peachy Nuxt.js project",
   "author": "Ed Corcoran",
   "private": true,
   "scripts": {
@@ -29,6 +29,9 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4",
     "husky": "^2.6.0",
     "lint-staged": "^8.2.1"
   }
