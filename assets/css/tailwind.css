@@ -22,21 +22,37 @@ html {
 }
 
 h1 {
-  @apply text-2xl font-medium;
+  @apply text-2xl font-bold mb-2;
 }
 
 h2 {
-  @apply text-xl font-medium;
+  @apply text-xl font-medium mb-2;
 }
 
 h3 {
-  @apply text-lg font-medium;
+  @apply text-lg font-medium mb-2;
 }
 
 a {
-  @apply text-blue-600 underline;
+  @apply text-blue-600;
+
+  &:hover {
+    @apply underline;
+  }
 }
 
 p {
   @apply mb-2;
+}
+
+label {
+  @apply text-sm font-medium;
+}
+
+input {
+  @apply border px-4 py-2 block;
+}
+
+button {
+  @apply px-4 py-2 block text-white bg-black;
 }
