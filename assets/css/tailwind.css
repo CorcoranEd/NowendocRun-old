@@ -46,11 +46,30 @@ p {
 }
 
 label {
-  @apply text-sm font-medium;
+  @apply text-sm font-medium mb-2;
 }
 
 input {
-  @apply border px-4 py-2 block;
+  @apply border p-2 block;
+}
+
+select {
+  @apply border p-2 block bg-white block rounded-none appearance-none;
+  /* css down arrow */
+  background-image:
+    linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px);
+  background-size:
+    5px 5px,
+    5px 5px;
+  background-repeat: no-repeat;
+}
+
+textarea {
+  @apply border p-2 block resize-none;
 }
 
 button {
