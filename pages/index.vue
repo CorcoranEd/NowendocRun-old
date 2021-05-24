@@ -18,7 +18,7 @@
           </li>
 
           <li class="mr-4">
-            <a>Our cattle</a>
+            <a>Our Cattle</a>
 
             <ul class="hidden">
               <li class="mr-4">
@@ -36,11 +36,7 @@
           </li>
 
           <li class="mr-4">
-            <a>The land</a>
-          </li>
-
-          <li class="mr-4">
-            <a>History</a>
+            <a>The Land</a>
           </li>
 
           <li>
@@ -62,29 +58,53 @@
       <div class="w-2/3">
         <p class="text-xl font-medium">
           Nowendoc Run is an accredited <a>LPA</a> and <a>MSA</a> cattle
-          finishing property producing prime grass fed, antibiotic &amp; hormone
+          finishing property producing prime grass fed, antibiotic and hormone
           free beef, from our paddock to your plate.
         </p>
 
         <p>
           Located in one of the most sought after parts of the New England
-          plateau with easy access to Sydney &amp; Newcastle on the coast, and
-          Walcha, Tamworth &amp; Armidale to the west.
+          plateau with easy access to Sydney and Newcastle on the coast and
+          Walcha, Tamworth and Armidale to the west.
         </p>
 
         <p>
           The district is renowned for its cattle, breeding and finishing
           capabilities due to its combination of its high altitude of 870 to
-          895m ASL, 1,000mm (40 inch) rainfall, rich soils, and temperate
-          climate.
+          1200m above sea level, 1,000mm (40 inch) rainfall, rich soils, and
+          temperate climate.
+        </p>
+
+        <p>
+          The original “Nowendoc Run” was just under 80,000 acres and
+          encompassed the majority of the valley.
+        </p>
+
+        <p>
+          This was later split in the early 1900’s into Riamukka, Nowendoc North
+          and the area with the original homestead retained the Nowendoc Station
+          name (these added up to about 40,000 acres) and then some other bits
+          and pieces around the outskirts.
+        </p>
+
+        <p>
+          The new “Nowendoc Run” has parts of Nowendoc North and Nowendoc
+          Station.
+        </p>
+
+        <p>
+          Originally six adjoining properties, namely The Two Mile, Littlemoor,
+          Hope Hill, Garden Tops, Bru Max Hu and Hawksnest the property today
+          comprises 2,155 hectares (5,325 acres) of some of the best livestock
+          fattening country in Eastern Australia.
         </p>
       </div>
     </section>
 
     <section id="our-cattle" class="container mx-auto p-4 w-1/2 mb-24">
       <h1>
-        Our prime cattle antibiotic &amp; hormone free, humanely treated and are
-        fed with the highest quality pastures and water.
+        Our prime cattle are antibiotic and hormone free, humanely treated and
+        fed on the highest quality pastures with ample quality water.
       </h1>
     </section>
 
@@ -161,26 +181,26 @@
           <h2>Antibiotic and hormone free</h2>
 
           <p>
-            If farm animals are being fed antibiotics, it’s usually a sign that
-            they’re living in crowded facilities that are likely to make them
-            sick or they're eating an unnatural diet and hormones to fatten them
-            quickly.
-          </p>
-
-          <p>
-            The problem with these antibiotics and hormones is that they often
-            remain in the end product and can have a negative effect when
-            consumed by humans, including an increased risk of diabetes and
-            certain types of cancer.
-          </p>
-
-          <p>
             As our animals roam free with plenty of space and access to a
             diversity of plants means that the animals can maintain good health
             and the need for chemically treating sickness is lessened. To ensure
             our animals stay healthy they are given vaccinations to prevent
             disease, and treatments for parasites, as well as multivitamins, and
             supplements to help with their organ health.
+          </p>
+
+          <p>
+            The problem with antibiotics and hormones is that they often remain
+            in the end product and can have a negative effect when consumed by
+            humans, including an increased risk of diabetes and certain types of
+            cancer.
+          </p>
+
+          <p>
+            If farm animals are being treated and fed antibiotics, it’s usually
+            a sign that they are living in crowded facilities that are likely to
+            make them sick or they are eating an unnatural diet and hormones to
+            fatten them quickly.
           </p>
 
           <p>
@@ -213,25 +233,25 @@
 
         <p>
           Our animals are also divided into social groups based around weight
-          and temperament which means that bullying is greatly reduced and the
-          overall stress of the different groups are reduced.
+          and temperament which means that bullying and other advese social
+          behaviour are greatly reduced and the overall stress of the different
+          groups are reduced.
         </p>
 
         <p>
           When handling our animals we follow Low Stress Stock Handling
-          techniques (https://www.lss.net.au), most of our handling uses body
-          language. No whips, no electric jiggers, or other equipment that
-          causes pain or stress to the animals is used. These techniques mean we
-          can maintain a close relationship with the animals are comfortable
-          when being handled and they have a very calm temperament which reduces
-          flight.
+          techniques, most of our handling uses body language. No whips, no
+          electric jiggers or other equipment that causes pain or stress to the
+          animals is used. These techniques mean we can maintain a close
+          relationship with the animals are comfortable when being handled and
+          they have a very calm temperament.
         </p>
 
         <p>
           Our paddocks, laneway system and yards are all designed around stress
           free movement of stock, the property is essentially a funnel from the
-          back fence to the crush - in the yards where the animals are weighed
-          and treated individually.
+          back fence to the crush in the yards where the animals are weighed and
+          treated individually.
         </p>
       </div>
 
@@ -241,8 +261,8 @@
     </section>
 
     <section id="the-land" class="container mx-auto p-4 mb-24">
-      <div class="flex flex-row w-full">
-        <div class="w-1/2 mr-8">
+      <div class="flex flex-row w-full justify-end mb-8">
+        <div class="w-2/3 mr-8">
           <h2>High quality food and water = high quality beef.</h2>
 
           <p>
@@ -253,7 +273,7 @@
           </p>
 
           <p>
-            Nowendoc is renowned for its productive brown and red basalt and
+            Nowendoc is renowned for its productive black and red basalt and
             loam soils, with alluvial river flats. Nowendoc Run has extensive
             areas of high performance pastures all undersown for winter
             fattening, including a mix of sub/red/white clovers, phalaris,
@@ -261,76 +281,54 @@
           </p>
 
           <p>
-            Our pasture management processes all contribute to the
-            sustainability of the land.
+            The pasture management programme at the Nowendoc Run contributes to
+            the sustainability of the land.
           </p>
 
           <ul class="ml-6">
             <li class="list-disc mb-2">
-              We use a no till process to make sure there is little disturbance
-              to the soil.
+              No till processes are used to make sure there is little
+              disturbance to the soil.
             </li>
 
             <li class="list-disc mb-2">
-              We rotate our pastures which breaks the life-cycle of parasites
-              and because we don’t plant every year we lower the use of
-              herbicides.
+              Cattle are rotated through different pastures which breaks the
+              life-cycle of parasites and lowers the need for animal health
+              treatments.
             </li>
 
             <li class="list-disc mb-2">
-              We encourage canopy cover to reduce noctious weeds.
+              Canopy cover is encouraged to reduce noxious weeds.
             </li>
 
             <li class="list-disc mb-2">
-              The treatments we use for internal parasites in the animals are
+              The treatments used for internal parasites in the animals are
               friendly to the dung beetle whose job is to speed up the removal
               of dung and aerate the soil.
             </li>
           </ul>
 
           <p>
-            With 18km of double water frontage to the Nowendoc River, Coutawong,
-            Lewis and Cox’s Swamp creeks and a series of spring fed surface dams
-            and soaks there is no problem with access to high quality clean
-            running water. This ensures the pastures are growing but also
-            provides the animals with access to clean, fresh water whenever they
-            need.
+            With 18km of double water frontage to the Nowendoc River, Coutawong
+            Creek, Lewis Creek, Cox’s Swamp and Creek and a multitude of
+            permanent spring fed surface dams and soaks there is no problem with
+            access to high quality clean running water. This ensures the
+            pastures are growing but also provides the animals with access to
+            clean, fresh water whenever they need.
+          </p>
+
+          <p>
+            An extensive reticulated water trough system is in place to ensure
+            cattle have access to clean fresh water without having to travel
+            more than 200 meters to drink.
           </p>
         </div>
+      </div>
 
-        <img class="w-1/2" src="../assets/images/nowendoc-run-5.jpg" />
+      <div>
+        <img class="w-2/3" src="../assets/images/nowendoc-run-5.jpg" />
       </div>
     </section>
-
-    <!-- <section id="History" class="container mx-auto p-4 mb-24">
-      <div class="w-2/3">
-        <h2>History</h2>
-
-        <p>
-          The original “Nowendoc Run” was just under 80,000 acres and
-          encompassed the majority of the valley.
-        </p>
-
-        <p>
-          This was later split in the early 1900’s into Riamukka, Nowendoc North
-          and the area with the original homestead retained the Nowendoc Station
-          name (these added up to about 40,000 acres) and then some other bits
-          and pieces around the outskirts.
-        </p>
-
-        <p>
-          The new “Nowendoc Run” has parts of Nowendoc North and Nowendoc
-          Station.
-        </p>
-
-        <p>
-          Originally five adjoining properties, namely The Two Mile, Littlemoor,
-          Hope Hill, Garden Tops, and Bru Max Hu the property today comprises
-          1,993.4 ha (4,925.8 acres) of some of the best livestock fattening
-          country in Eastern Australia.
-        </p>
-      </div>
-    </section> -->
 
     <section id="contact" class="container mx-auto p-4">
       <div class="absolute -z-10 w-3/4 top -left-1/4">
@@ -341,10 +339,8 @@
           <h2>Contact us</h2>
 
           <p>
-            Sentence about getting in touch with us via email. Sentence about
-            getting in touch with us via email. Sentence about getting in touch
-            with us via email. Sentence about getting in touch with us via
-            email. Sentence about getting in touch with us via email.
+            If you wish to contact the Nowendoc Run please use the enquiry form
+            below or contact via the email and phone details below.
           </p>
 
           <form name="contact" netlify class="w-full flex flex-col">
@@ -367,11 +363,11 @@
             <div class="flex flex-col mb-4">
               <label>Contact type</label>
               <select class="w-full" name="type">
-                <option></option>
-                <option></option>
-                <option></option>
-                <option></option>
-                <option></option>
+                <option>General enquiries</option>
+                <option>Cattle sales</option>
+                <option>Cattle purchases</option>
+                <option>Employment</option>
+                <option>Suppliers</option>
               </select>
             </div>
 
